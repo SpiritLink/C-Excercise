@@ -1,0 +1,6 @@
+﻿Neowiz/x64/Debug
+x64/Debug
+*.vcxproj
+*.filters
+*.user
+.vs
